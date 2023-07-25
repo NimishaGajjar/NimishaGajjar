@@ -1,6 +1,6 @@
 # Hi👋 , I’m Nimisha Gajjar :)
 
-Welcome to my GitHub profile! I am a full stack developer.
+Welcome to my GitHub profile! I am highly motivated to keep learning. I am a full stack developer who is always excited to expand my knowledge and learn new stacks and technology.
 
 ## Tools that I am expert in it: 
 
