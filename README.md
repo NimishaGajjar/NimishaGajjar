@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I am highly motivated to keep learning. I am a ful
 
 ## Tools that I am expert in it: 
 
-- LANGUAGES: Javascript,HTML,SQL,CSS,GraphQL,MongoDB
-- FRAMEWORKS/LIBRARIES: NodeJS,ReactJS,Express,Rails,Socket.io,WebSockets,Knex,JQuery,Ajax
-- VERSION CONTROL & DATABASES: Git,PostgreSQL
-- TESTING: Jest,Cypress,RSpec,Mockito,JUnit
+- Languages: Javascript, HTML, CSS, Ruby, SQL
+- Frameworks, Libraries, and Environments: NodeJS, ReactJS, Express, EJS, JQuery, BootStrap, ActiveRecord, Rails, SASS, Ajax
+- Testing: StoryBook, Cypress, RSpec, Jest, Mocha, Chai
+- Systems, CMS and Databases: SQL, Git
 
 ## How to reach me 📫
 
