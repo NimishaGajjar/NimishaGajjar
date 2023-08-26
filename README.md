@@ -1,18 +1,50 @@
-# Hi👋 , I’m Nimisha Gajjar :)
+# Nimisha Gajjar's GitHub Profile
 
-Welcome to my GitHub profile! I am highly motivated to keep learning. I am a full stack developer who is always excited to expand my knowledge and learn new stacks and technology.
+Hello! 👋 I'm Nimisha Gajjar, a passionate full-stack developer with an insatiable thirst for knowledge. My journey in the world of technology is a perpetual exploration of new stacks and emerging technologies.
 
-## Tools that I am expert in it: 
+## My Skillset
 
-- Languages: Javascript, HTML, CSS, Ruby, SQL
-- Frameworks, Libraries, and Environments: NodeJS, ReactJS, Express, EJS, JQuery, BootStrap, ActiveRecord, Rails, SASS, Ajax
-- Testing: StoryBook, Cypress, RSpec, Jest, Mocha, Chai
-- Systems, CMS and Databases: SQL, Git
+I bring proficiency in a wide range of tools and languages to the table:
 
-## How to reach me 📫
+### Languages
+- JavaScript
+- HTML
+- CSS
+- Ruby
+- SQL
 
-- Email: nimishagajjar57@gmail.com
-- LinkedIn: https://www.linkedin.com/in/nimisha-gajjar-151a95228/
+### Frameworks, Libraries, and Environments
+- Node.js
+- React.js
+- Express.js
+- EJS
+- jQuery
+- Bootstrap
+- Ruby on Rails
+- SASS
+- Ajax
+
+### Testing
+- Storybook
+- Cypress
+- RSpec
+- Jest
+- Mocha
+- Chai
+
+### Systems, CMS, and Databases
+- SQL
+- Git
+
+## Get in Touch 📫
+
+Feel free to connect with me through the following channels:
+
+- Email: [nimishagajjar57@gmail.com](mailto:nimishagajjar57@gmail.com)
+- LinkedIn: [Nimisha Gajjar](https://www.linkedin.com/in/nimisha-gajjar-151a95228/)
+
+Let's collaborate, learn, and build amazing things together!
+
 
 
 
